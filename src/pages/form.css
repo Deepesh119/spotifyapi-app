@@ -1,0 +1,86 @@
+.ParentCard {
+    background-color: palevioletred;
+    border: 2px solid black;
+    overflow-y: hidden;
+    width: 30%;
+    margin-left: 30%;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.margin {
+    margin-left: 55%;
+    color: black;
+    background-color: darksalmon;
+}
+
+.fonttype {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 25%;
+}
+
+#image {
+    height: 180px;
+    margin-left: 22%;
+}
+
+.cardregister {
+    margin-top: 40px;
+    margin-left: 30%;
+    width: 30%;
+    border: 2px solid black;
+}
+
+.style {
+    margin-top: 30px;
+    text-align: center;
+    font-family: Serif;
+    font-size: 30px;
+}
+
+.styleone {
+    font-family: cursive;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.photo {
+    height: 300px;
+    margin-left: 40px;
+}
+
+.bachppan {
+    font-family: cursive;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.registerinput {
+    font-family: monospace;
+    margin-bottom: 5px;
+    justify-content: space-evenly;
+}
+
+#forspace {
+    margin-left: 30px;
+}
+
+#forspaceone {
+    margin-left: 7px;
+}
+
+.registerdivision {
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+
+.inputspaceregister {
+    margin-left: 30px;
+    font-family: serif;
+}
+
+.inputspaceregistertwo {
+    margin-left: 5px;
+    font-family: serif;
+}
